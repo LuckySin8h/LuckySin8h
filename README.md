@@ -26,6 +26,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/jagannathll"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jagannathll" /></a><a href="https://ko-fi.com/jagannathll"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="jagannathll" /></a></p><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luckysin8h&show_icons=true&locale=en" alt="luckysin8h" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luckysin8h&" alt="luckysin8h" /></p>
