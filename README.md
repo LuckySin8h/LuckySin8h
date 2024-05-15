@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **jagannathlucky07@gmail.com**
 
+- 📄 Know about my experiences [https://jagannathsingh.netlify.app/assets/lucky%20singh%20Resume%202.pdf](https://jagannathsingh.netlify.app/assets/lucky%20singh%20Resume%202.pdf)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jagannath-singh-8725112b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jagannath-singh-8725112b1" height="30" width="40" /></a>
