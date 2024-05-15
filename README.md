@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React,Angular,Django**
 
-- 👨‍💻 All of my projects are available at [jagannathsingh.netlify.app](jagannathsingh.netlify.app)
+- 👨‍💻 All of my projects are available at [https://jagannathsingh.netlify.app/](https://jagannathsingh.netlify.app/)
 
 - 📫 How to reach me **jagannathlucky07@gmail.com**
 
